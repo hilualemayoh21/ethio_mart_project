@@ -1,0 +1,12066 @@
+[
+  [
+    {
+      "token": "💥vintage",
+      "label": "O"
+    },
+    {
+      "token": "mason",
+      "label": "B-Product"
+    },
+    {
+      "token": "glass",
+      "label": "I-Product"
+    },
+    {
+      "token": "drinking",
+      "label": "I-Product"
+    },
+    {
+      "token": "jar",
+      "label": "I-Product"
+    },
+    {
+      "token": "with",
+      "label": "I-Product"
+    },
+    {
+      "token": "straw",
+      "label": "I-Product"
+    },
+    {
+      "token": "👉የራሳቸው",
+      "label": "O"
+    },
+    {
+      "token": "ስትሮ",
+      "label": "B-Product"
+    },
+    {
+      "token": "ያላቸው",
+      "label": "I-Product"
+    },
+    {
+      "token": "እጅግ",
+      "label": "I-Product"
+    },
+    {
+      "token": "ውብ",
+      "label": "I-Product"
+    },
+    {
+      "token": "የሆኑ",
+      "label": "I-Product"
+    },
+    {
+      "token": "የጁስ",
+      "label": "I-Product"
+    },
+    {
+      "token": "መጠጫ",
+      "label": "I-Product"
+    },
+    {
+      "token": "ብርጭቆወች",
+      "label": "I-Product"
+    },
+    {
+      "token": "🍸500ml",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "550ብር✅✅",
+      "label": "O"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "🎯",
+      "label": "O"
+    },
+    {
+      "token": "universal",
+      "label": "O"
+    },
+    {
+      "token": "watersaving",
+      "label": "O"
+    },
+    {
+      "token": "dishwasher",
+      "label": "O"
+    },
+    {
+      "token": "head",
+      "label": "O"
+    },
+    {
+      "token": "🔰increase",
+      "label": "O"
+    },
+    {
+      "token": "water",
+      "label": "O"
+    },
+    {
+      "token": "outlet",
+      "label": "O"
+    },
+    {
+      "token": "pressure",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "rinse",
+      "label": "O"
+    },
+    {
+      "token": "efficiently",
+      "label": "O"
+    },
+    {
+      "token": "🔰360",
+      "label": "O"
+    },
+    {
+      "token": "°",
+      "label": "O"
+    },
+    {
+      "token": "rotating",
+      "label": "O"
+    },
+    {
+      "token": "head",
+      "label": "O"
+    },
+    {
+      "token": "🔰100",
+      "label": "O"
+    },
+    {
+      "token": "functional",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "400",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥7pcs",
+      "label": "O"
+    },
+    {
+      "token": "glass",
+      "label": "B-Product"
+    },
+    {
+      "token": "water",
+      "label": "I-Product"
+    },
+    {
+      "token": "set",
+      "label": "I-Product"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "አንድ",
+      "label": "O"
+    },
+    {
+      "token": "ማራኪ",
+      "label": "O"
+    },
+    {
+      "token": "ጆግና",
+      "label": "O"
+    },
+    {
+      "token": "6",
+      "label": "B-LOC"
+    },
+    {
+      "token": "መጠጫ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብርጭቆዎች",
+      "label": "I-LOC"
+    },
+    {
+      "token": "✔️",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የፈሳሽ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መጠጥ",
+      "label": "O"
+    },
+    {
+      "token": "ማቅረቢያ",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ከፍተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ሙቀት",
+      "label": "O"
+    },
+    {
+      "token": "የሚቋቋም",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ኳሊቲ",
+      "label": "O"
+    },
+    {
+      "token": "ወፍራም",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "✅",
+      "label": "O"
+    },
+    {
+      "token": "3400",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "የቀረው",
+      "label": "O"
+    },
+    {
+      "token": "❌",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👋3in1",
+      "label": "O"
+    },
+    {
+      "token": "delux",
+      "label": "O"
+    },
+    {
+      "token": "multifunctional",
+      "label": "O"
+    },
+    {
+      "token": "bassinet",
+      "label": "O"
+    },
+    {
+      "token": "✨ከግራ",
+      "label": "O"
+    },
+    {
+      "token": "ወደቀኝ",
+      "label": "O"
+    },
+    {
+      "token": "እየተንቀሳቀሰ",
+      "label": "O"
+    },
+    {
+      "token": "ልጆችን",
+      "label": "O"
+    },
+    {
+      "token": "እሹሩሩ",
+      "label": "O"
+    },
+    {
+      "token": "እያለ",
+      "label": "O"
+    },
+    {
+      "token": "የሚያጫውት",
+      "label": "O"
+    },
+    {
+      "token": "የሚያስተኛ",
+      "label": "O"
+    },
+    {
+      "token": "✨የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ሪሞት",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ሙዚቃዎች",
+      "label": "O"
+    },
+    {
+      "token": "ያሉት",
+      "label": "O"
+    },
+    {
+      "token": "እንዲሁም",
+      "label": "O"
+    },
+    {
+      "token": "✨በብሉቱዝ",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በፍላሽ",
+      "label": "O"
+    },
+    {
+      "token": "የምንፈልገውን",
+      "label": "O"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ማጫዎት",
+      "label": "O"
+    },
+    {
+      "token": "እንችላለን",
+      "label": "O"
+    },
+    {
+      "token": "✨በሶኬት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በባትሪ",
+      "label": "O"
+    },
+    {
+      "token": "ድንጋይ",
+      "label": "O"
+    },
+    {
+      "token": "የሚሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✨ልጆች",
+      "label": "O"
+    },
+    {
+      "token": "ከፍ",
+      "label": "O"
+    },
+    {
+      "token": "ሲሉ",
+      "label": "O"
+    },
+    {
+      "token": "እንደ",
+      "label": "O"
+    },
+    {
+      "token": "ወንበር",
+      "label": "O"
+    },
+    {
+      "token": "ያገለግላቸዋል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "14000",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👋",
+      "label": "O"
+    },
+    {
+      "token": "bardefu",
+      "label": "O"
+    },
+    {
+      "token": "2",
+      "label": "B-LOC"
+    },
+    {
+      "token": "in",
+      "label": "I-LOC"
+    },
+    {
+      "token": "1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "multi",
+      "label": "O"
+    },
+    {
+      "token": "purpose",
+      "label": "O"
+    },
+    {
+      "token": "juicer",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ኳሊቲ",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "የጁስ",
+      "label": "O"
+    },
+    {
+      "token": "መፍጫ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "የጀርመን",
+      "label": "O"
+    },
+    {
+      "token": "ቴክኖሎጂ",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "3",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ሌትር",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጁስ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የሚፈጭ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጆግ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ያለው",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የብና",
+      "label": "I-LOC"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "የቅመማ",
+      "label": "O"
+    },
+    {
+      "token": "ቅመም",
+      "label": "O"
+    },
+    {
+      "token": "መፍጫ",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "8000watt",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ምላጮቹ",
+      "label": "O"
+    },
+    {
+      "token": "ጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "የሆኑ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ለቤት",
+      "label": "O"
+    },
+    {
+      "token": "እንዲሁም",
+      "label": "O"
+    },
+    {
+      "token": "ለስራ",
+      "label": "O"
+    },
+    {
+      "token": "የሚሆን",
+      "label": "O"
+    },
+    {
+      "token": "አሪፍ",
+      "label": "O"
+    },
+    {
+      "token": "እቃ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ለአጠቃቀም",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "በረዶ",
+      "label": "O"
+    },
+    {
+      "token": "ይፈጫል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ6800ብር",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቤት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥sayona",
+      "label": "O"
+    },
+    {
+      "token": "multifunctional",
+      "label": "O"
+    },
+    {
+      "token": "juicer",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "extractor",
+      "label": "O"
+    },
+    {
+      "token": "✨best",
+      "label": "O"
+    },
+    {
+      "token": "quality",
+      "label": "O"
+    },
+    {
+      "token": "✨",
+      "label": "O"
+    },
+    {
+      "token": "ብርቱካን",
+      "label": "O"
+    },
+    {
+      "token": "ካሮት",
+      "label": "O"
+    },
+    {
+      "token": "አፕል",
+      "label": "O"
+    },
+    {
+      "token": "አናናስ",
+      "label": "O"
+    },
+    {
+      "token": "ጁስ",
+      "label": "O"
+    },
+    {
+      "token": "ይሰራል",
+      "label": "O"
+    },
+    {
+      "token": "ፋይበሩን",
+      "label": "O"
+    },
+    {
+      "token": "ለብቻ",
+      "label": "O"
+    },
+    {
+      "token": "ያስወግዴል",
+      "label": "O"
+    },
+    {
+      "token": "✨",
+      "label": "O"
+    },
+    {
+      "token": "የፍራፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ጁስ",
+      "label": "O"
+    },
+    {
+      "token": "ይሰራል",
+      "label": "O"
+    },
+    {
+      "token": "✨",
+      "label": "O"
+    },
+    {
+      "token": "ሽንኩርትና",
+      "label": "O"
+    },
+    {
+      "token": "ስጋ",
+      "label": "O"
+    },
+    {
+      "token": "ይፈጫል",
+      "label": "O"
+    },
+    {
+      "token": "✨ቡናና",
+      "label": "O"
+    },
+    {
+      "token": "ቅመማ",
+      "label": "O"
+    },
+    {
+      "token": "ቅመም",
+      "label": "O"
+    },
+    {
+      "token": "ይፈጫል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ8500",
+      "label": "O"
+    },
+    {
+      "token": "ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቤት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "☀rechargeable",
+      "label": "O"
+    },
+    {
+      "token": "breast",
+      "label": "O"
+    },
+    {
+      "token": "pump",
+      "label": "O"
+    },
+    {
+      "token": "✨bpa",
+      "label": "O"
+    },
+    {
+      "token": "free",
+      "label": "O"
+    },
+    {
+      "token": "👋portable",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "2100",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥electric",
+      "label": "O"
+    },
+    {
+      "token": "hot",
+      "label": "O"
+    },
+    {
+      "token": "plate",
+      "label": "O"
+    },
+    {
+      "token": "⚡️በኤሌክትሪክ",
+      "label": "O"
+    },
+    {
+      "token": "የሚሰራ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ሙቀት",
+      "label": "O"
+    },
+    {
+      "token": "መቆጣጠሪያ",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "⚡️1400",
+      "label": "O"
+    },
+    {
+      "token": "watt",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ለማንቀሳቀስ",
+      "label": "O"
+    },
+    {
+      "token": "የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "መያዣ",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ከጀበና",
+      "label": "O"
+    },
+    {
+      "token": "እስከ",
+      "label": "O"
+    },
+    {
+      "token": "ትልቅ",
+      "label": "O"
+    },
+    {
+      "token": "ድስቶች",
+      "label": "O"
+    },
+    {
+      "token": "የሚመች",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰✅4500ብር",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "የቀረው",
+      "label": "O"
+    },
+    {
+      "token": "❌",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥saachi®",
+      "label": "O"
+    },
+    {
+      "token": "ceramic",
+      "label": "O"
+    },
+    {
+      "token": "pizza",
+      "label": "O"
+    },
+    {
+      "token": "pan",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ለቤትና",
+      "label": "O"
+    },
+    {
+      "token": "ለሬስቶራንት",
+      "label": "O"
+    },
+    {
+      "token": "አገልግሎት",
+      "label": "O"
+    },
+    {
+      "token": "የሚውል",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ለአጠቃቀም",
+      "label": "O"
+    },
+    {
+      "token": "ሆነ",
+      "label": "O"
+    },
+    {
+      "token": "ለአያያዝ",
+      "label": "O"
+    },
+    {
+      "token": "ቀላልና",
+      "label": "O"
+    },
+    {
+      "token": "ምቹ",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️እንዲሁም",
+      "label": "O"
+    },
+    {
+      "token": "ለፒዛ",
+      "label": "O"
+    },
+    {
+      "token": "ለቡና",
+      "label": "O"
+    },
+    {
+      "token": "መቁያነት",
+      "label": "O"
+    },
+    {
+      "token": "ለአንባሻ",
+      "label": "O"
+    },
+    {
+      "token": "ለጨጨብሳ",
+      "label": "O"
+    },
+    {
+      "token": "ለፈጢራ",
+      "label": "O"
+    },
+    {
+      "token": "ለዳቦ",
+      "label": "O"
+    },
+    {
+      "token": "ለጥብስና",
+      "label": "O"
+    },
+    {
+      "token": "ለተለያዩ",
+      "label": "O"
+    },
+    {
+      "token": "አገልግሎቶች",
+      "label": "O"
+    },
+    {
+      "token": "የሚሆን",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ከ",
+      "label": "O"
+    },
+    {
+      "token": "normal",
+      "label": "O"
+    },
+    {
+      "token": "pizza",
+      "label": "O"
+    },
+    {
+      "token": "pan",
+      "label": "O"
+    },
+    {
+      "token": "በጥራት",
+      "label": "O"
+    },
+    {
+      "token": "የተሻለ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️አነስተኛ",
+      "label": "O"
+    },
+    {
+      "token": "የኤሌክትሪክ",
+      "label": "O"
+    },
+    {
+      "token": "ፍጆታ",
+      "label": "O"
+    },
+    {
+      "token": "የሚጠቀም",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ6000ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "✖️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "portable",
+      "label": "O"
+    },
+    {
+      "token": "electrical",
+      "label": "O"
+    },
+    {
+      "token": "water",
+      "label": "O"
+    },
+    {
+      "token": "dispenser",
+      "label": "O"
+    },
+    {
+      "token": "👉ባለ",
+      "label": "O"
+    },
+    {
+      "token": "3",
+      "label": "B-LOC"
+    },
+    {
+      "token": "press",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለማንኛውም",
+      "label": "O"
+    },
+    {
+      "token": "ዓይነት",
+      "label": "O"
+    },
+    {
+      "token": "የውሃ",
+      "label": "O"
+    },
+    {
+      "token": "ጀሪካን",
+      "label": "O"
+    },
+    {
+      "token": "የሚሆን",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ቱቦው",
+      "label": "O"
+    },
+    {
+      "token": "55cm",
+      "label": "O"
+    },
+    {
+      "token": "የሚረዝም",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "1200ma",
+      "label": "O"
+    },
+    {
+      "token": "ቻርጅ",
+      "label": "O"
+    },
+    {
+      "token": "የመያዝ",
+      "label": "O"
+    },
+    {
+      "token": "አቅም",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "ባትሪ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "መጠጫ",
+      "label": "O"
+    },
+    {
+      "token": "ብርጭቆ",
+      "label": "O"
+    },
+    {
+      "token": "በራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ላይ",
+      "label": "O"
+    },
+    {
+      "token": "ማስቀመጥ",
+      "label": "O"
+    },
+    {
+      "token": "ይቻላል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "1600",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ብር✅",
+      "label": "I-LOC"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "B-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👋3in1",
+      "label": "O"
+    },
+    {
+      "token": "delux",
+      "label": "O"
+    },
+    {
+      "token": "multifunctional",
+      "label": "O"
+    },
+    {
+      "token": "bassinet",
+      "label": "O"
+    },
+    {
+      "token": "✨ከግራ",
+      "label": "O"
+    },
+    {
+      "token": "ወደቀኝ",
+      "label": "O"
+    },
+    {
+      "token": "እየተንቀሳቀሰ",
+      "label": "O"
+    },
+    {
+      "token": "ልጆችን",
+      "label": "O"
+    },
+    {
+      "token": "እሹሩሩ",
+      "label": "O"
+    },
+    {
+      "token": "እያለ",
+      "label": "O"
+    },
+    {
+      "token": "የሚያጫውት",
+      "label": "O"
+    },
+    {
+      "token": "የሚያስተኛ",
+      "label": "O"
+    },
+    {
+      "token": "✨የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ሪሞት",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ሙዚቃዎች",
+      "label": "O"
+    },
+    {
+      "token": "ያሉት",
+      "label": "O"
+    },
+    {
+      "token": "እንዲሁም",
+      "label": "O"
+    },
+    {
+      "token": "✨በብሉቱዝ",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በፍላሽ",
+      "label": "O"
+    },
+    {
+      "token": "የምንፈልገውን",
+      "label": "O"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ማጫዎት",
+      "label": "O"
+    },
+    {
+      "token": "እንችላለን",
+      "label": "O"
+    },
+    {
+      "token": "✨በሶኬት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በባትሪ",
+      "label": "O"
+    },
+    {
+      "token": "ድንጋይ",
+      "label": "O"
+    },
+    {
+      "token": "የሚሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✨ልጆች",
+      "label": "O"
+    },
+    {
+      "token": "ከፍ",
+      "label": "O"
+    },
+    {
+      "token": "ሲሉ",
+      "label": "O"
+    },
+    {
+      "token": "እንደ",
+      "label": "O"
+    },
+    {
+      "token": "ወንበር",
+      "label": "O"
+    },
+    {
+      "token": "ያገለግላቸዋል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "14000",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥grooming",
+      "label": "O"
+    },
+    {
+      "token": "set",
+      "label": "O"
+    },
+    {
+      "token": "✂️",
+      "label": "O"
+    },
+    {
+      "token": "ሶስት",
+      "label": "O"
+    },
+    {
+      "token": "በአንድ",
+      "label": "O"
+    },
+    {
+      "token": "የያዘ",
+      "label": "O"
+    },
+    {
+      "token": "የፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "ማሽን",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ሼቨር",
+      "label": "O"
+    },
+    {
+      "token": "✂️",
+      "label": "O"
+    },
+    {
+      "token": "የሚሰራ",
+      "label": "O"
+    },
+    {
+      "token": "ጥራት",
+      "label": "O"
+    },
+    {
+      "token": "ባለው",
+      "label": "O"
+    },
+    {
+      "token": "ግብአት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ዲዛየን",
+      "label": "O"
+    },
+    {
+      "token": "የተሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✂️የራስ",
+      "label": "O"
+    },
+    {
+      "token": "ፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ፂምን",
+      "label": "O"
+    },
+    {
+      "token": "በስርአት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በጥራት",
+      "label": "O"
+    },
+    {
+      "token": "ለማስተካከል",
+      "label": "O"
+    },
+    {
+      "token": "አስተማማኝ",
+      "label": "O"
+    },
+    {
+      "token": "ማሽን",
+      "label": "O"
+    },
+    {
+      "token": "✂️በሚፈልጉት",
+      "label": "O"
+    },
+    {
+      "token": "መጠን",
+      "label": "O"
+    },
+    {
+      "token": "ለመቁረጥ",
+      "label": "O"
+    },
+    {
+      "token": "መቀያየሪ",
+      "label": "O"
+    },
+    {
+      "token": "ቁጥሮች",
+      "label": "O"
+    },
+    {
+      "token": "ያሉት",
+      "label": "O"
+    },
+    {
+      "token": "✂️ጥቃቅን",
+      "label": "O"
+    },
+    {
+      "token": "ለስላሳ",
+      "label": "O"
+    },
+    {
+      "token": "ምላጮች",
+      "label": "O"
+    },
+    {
+      "token": "እየተሽከረከሩ",
+      "label": "O"
+    },
+    {
+      "token": "ምቾትን",
+      "label": "O"
+    },
+    {
+      "token": "በተላበሰ",
+      "label": "O"
+    },
+    {
+      "token": "መልኩ",
+      "label": "O"
+    },
+    {
+      "token": "ፂምዎን",
+      "label": "O"
+    },
+    {
+      "token": "ያስምሩሉዎታል",
+      "label": "O"
+    },
+    {
+      "token": "✂️እንደ",
+      "label": "O"
+    },
+    {
+      "token": "ምላጭ",
+      "label": "O"
+    },
+    {
+      "token": "ወይም",
+      "label": "O"
+    },
+    {
+      "token": "የፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "ቶንዶስ",
+      "label": "O"
+    },
+    {
+      "token": "ምቾት",
+      "label": "O"
+    },
+    {
+      "token": "የማይነሳ",
+      "label": "O"
+    },
+    {
+      "token": "በልስላሴ",
+      "label": "O"
+    },
+    {
+      "token": "አንገትና",
+      "label": "O"
+    },
+    {
+      "token": "አገጭ",
+      "label": "O"
+    },
+    {
+      "token": "ስር",
+      "label": "O"
+    },
+    {
+      "token": "ሙልጭ",
+      "label": "O"
+    },
+    {
+      "token": "አድርጎ",
+      "label": "O"
+    },
+    {
+      "token": "የሚላጭ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "✅",
+      "label": "O"
+    },
+    {
+      "token": "2300",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "❌ዉስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "❌",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "📣",
+      "label": "O"
+    },
+    {
+      "token": "2in1",
+      "label": "O"
+    },
+    {
+      "token": "long",
+      "label": "O"
+    },
+    {
+      "token": "handled",
+      "label": "O"
+    },
+    {
+      "token": "bath",
+      "label": "O"
+    },
+    {
+      "token": "brush",
+      "label": "O"
+    },
+    {
+      "token": "💥ለአያያዝ",
+      "label": "O"
+    },
+    {
+      "token": "ምቹ",
+      "label": "O"
+    },
+    {
+      "token": "💥በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "የማንደርስበትን",
+      "label": "O"
+    },
+    {
+      "token": "የጀርባ",
+      "label": "O"
+    },
+    {
+      "token": "ክፍል",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለማሸት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ተመራጭ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "💥ለቆዳ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ተስማሚ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "ብሩሽ",
+      "label": "O"
+    },
+    {
+      "token": "💥በሁለቱም",
+      "label": "O"
+    },
+    {
+      "token": "በኩል",
+      "label": "O"
+    },
+    {
+      "token": "የሚያሽ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "450",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥1pc",
+      "label": "O"
+    },
+    {
+      "token": "stainless",
+      "label": "O"
+    },
+    {
+      "token": "steel",
+      "label": "O"
+    },
+    {
+      "token": "loaf",
+      "label": "O"
+    },
+    {
+      "token": "pan",
+      "label": "O"
+    },
+    {
+      "token": "👍ትልቁ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋትልቁ1000ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "❌ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥garlic",
+      "label": "O"
+    },
+    {
+      "token": "press",
+      "label": "O"
+    },
+    {
+      "token": "chopper",
+      "label": "O"
+    },
+    {
+      "token": "🔰kitchen",
+      "label": "O"
+    },
+    {
+      "token": "ginger",
+      "label": "O"
+    },
+    {
+      "token": "garlic",
+      "label": "O"
+    },
+    {
+      "token": "pressquick",
+      "label": "O"
+    },
+    {
+      "token": "grindingsaving",
+      "label": "O"
+    },
+    {
+      "token": "you",
+      "label": "O"
+    },
+    {
+      "token": "time",
+      "label": "O"
+    },
+    {
+      "token": "🔰manual",
+      "label": "O"
+    },
+    {
+      "token": "extrusion",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "grinding",
+      "label": "O"
+    },
+    {
+      "token": "🔰stainless",
+      "label": "O"
+    },
+    {
+      "token": "steel",
+      "label": "O"
+    },
+    {
+      "token": "materialfood",
+      "label": "O"
+    },
+    {
+      "token": "grade",
+      "label": "O"
+    },
+    {
+      "token": "safety",
+      "label": "O"
+    },
+    {
+      "token": "materialdurable",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "easy",
+      "label": "O"
+    },
+    {
+      "token": "to",
+      "label": "O"
+    },
+    {
+      "token": "clean",
+      "label": "O"
+    },
+    {
+      "token": "🔰curved",
+      "label": "O"
+    },
+    {
+      "token": "plastic",
+      "label": "O"
+    },
+    {
+      "token": "handlecomfortable",
+      "label": "O"
+    },
+    {
+      "token": "to",
+      "label": "O"
+    },
+    {
+      "token": "use",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "350",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "📍ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "❌ዉስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን❌",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥grooming",
+      "label": "O"
+    },
+    {
+      "token": "set",
+      "label": "O"
+    },
+    {
+      "token": "✂️",
+      "label": "O"
+    },
+    {
+      "token": "ሶስት",
+      "label": "O"
+    },
+    {
+      "token": "በአንድ",
+      "label": "O"
+    },
+    {
+      "token": "የያዘ",
+      "label": "O"
+    },
+    {
+      "token": "የፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "ማሽን",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ሼቨር",
+      "label": "O"
+    },
+    {
+      "token": "✂️",
+      "label": "O"
+    },
+    {
+      "token": "የሚሰራ",
+      "label": "O"
+    },
+    {
+      "token": "ጥራት",
+      "label": "O"
+    },
+    {
+      "token": "ባለው",
+      "label": "O"
+    },
+    {
+      "token": "ግብአት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ዲዛየን",
+      "label": "O"
+    },
+    {
+      "token": "የተሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✂️የራስ",
+      "label": "O"
+    },
+    {
+      "token": "ፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ፂምን",
+      "label": "O"
+    },
+    {
+      "token": "በስርአት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "በጥራት",
+      "label": "O"
+    },
+    {
+      "token": "ለማስተካከል",
+      "label": "O"
+    },
+    {
+      "token": "አስተማማኝ",
+      "label": "O"
+    },
+    {
+      "token": "ማሽን",
+      "label": "O"
+    },
+    {
+      "token": "✂️በሚፈልጉት",
+      "label": "O"
+    },
+    {
+      "token": "መጠን",
+      "label": "O"
+    },
+    {
+      "token": "ለመቁረጥ",
+      "label": "O"
+    },
+    {
+      "token": "መቀያየሪ",
+      "label": "O"
+    },
+    {
+      "token": "ቁጥሮች",
+      "label": "O"
+    },
+    {
+      "token": "ያሉት",
+      "label": "O"
+    },
+    {
+      "token": "✂️ጥቃቅን",
+      "label": "O"
+    },
+    {
+      "token": "ለስላሳ",
+      "label": "O"
+    },
+    {
+      "token": "ምላጮች",
+      "label": "O"
+    },
+    {
+      "token": "እየተሽከረከሩ",
+      "label": "O"
+    },
+    {
+      "token": "ምቾትን",
+      "label": "O"
+    },
+    {
+      "token": "በተላበሰ",
+      "label": "O"
+    },
+    {
+      "token": "መልኩ",
+      "label": "O"
+    },
+    {
+      "token": "ፂምዎን",
+      "label": "O"
+    },
+    {
+      "token": "ያስምሩሉዎታል",
+      "label": "O"
+    },
+    {
+      "token": "✂️እንደ",
+      "label": "O"
+    },
+    {
+      "token": "ምላጭ",
+      "label": "O"
+    },
+    {
+      "token": "ወይም",
+      "label": "O"
+    },
+    {
+      "token": "የፀጉር",
+      "label": "O"
+    },
+    {
+      "token": "ቶንዶስ",
+      "label": "O"
+    },
+    {
+      "token": "ምቾት",
+      "label": "O"
+    },
+    {
+      "token": "የማይነሳ",
+      "label": "O"
+    },
+    {
+      "token": "በልስላሴ",
+      "label": "O"
+    },
+    {
+      "token": "አንገትና",
+      "label": "O"
+    },
+    {
+      "token": "አገጭ",
+      "label": "O"
+    },
+    {
+      "token": "ስር",
+      "label": "O"
+    },
+    {
+      "token": "ሙልጭ",
+      "label": "O"
+    },
+    {
+      "token": "አድርጎ",
+      "label": "O"
+    },
+    {
+      "token": "የሚላጭ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "✅",
+      "label": "O"
+    },
+    {
+      "token": "2300",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "❌ዉስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "❌",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "special",
+      "label": "O"
+    },
+    {
+      "token": "base",
+      "label": "O"
+    },
+    {
+      "token": "for",
+      "label": "O"
+    },
+    {
+      "token": "refrigerator",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "washing",
+      "label": "O"
+    },
+    {
+      "token": "machine",
+      "label": "O"
+    },
+    {
+      "token": "👉home",
+      "label": "O"
+    },
+    {
+      "token": "moving",
+      "label": "O"
+    },
+    {
+      "token": "furniture",
+      "label": "O"
+    },
+    {
+      "token": "caster",
+      "label": "O"
+    },
+    {
+      "token": "wheel",
+      "label": "O"
+    },
+    {
+      "token": "heavy",
+      "label": "O"
+    },
+    {
+      "token": "objects",
+      "label": "O"
+    },
+    {
+      "token": "transporter",
+      "label": "O"
+    },
+    {
+      "token": "small",
+      "label": "O"
+    },
+    {
+      "token": "mover",
+      "label": "O"
+    },
+    {
+      "token": "laborsaving",
+      "label": "O"
+    },
+    {
+      "token": "moving",
+      "label": "O"
+    },
+    {
+      "token": "wheels",
+      "label": "O"
+    },
+    {
+      "token": "bed",
+      "label": "O"
+    },
+    {
+      "token": "tool",
+      "label": "O"
+    },
+    {
+      "token": "⚡️ከ45cm",
+      "label": "O"
+    },
+    {
+      "token": "እስከ",
+      "label": "O"
+    },
+    {
+      "token": "70cm",
+      "label": "O"
+    },
+    {
+      "token": "መለጠጥ",
+      "label": "O"
+    },
+    {
+      "token": "የሚችል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ💰🏷",
+      "label": "O"
+    },
+    {
+      "token": "2000",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "⚡️portable",
+      "label": "O"
+    },
+    {
+      "token": "foldable",
+      "label": "O"
+    },
+    {
+      "token": "mosquito",
+      "label": "O"
+    },
+    {
+      "token": "net",
+      "label": "O"
+    },
+    {
+      "token": "for",
+      "label": "O"
+    },
+    {
+      "token": "kids",
+      "label": "O"
+    },
+    {
+      "token": "👌በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "ይዞ",
+      "label": "O"
+    },
+    {
+      "token": "ለመንቀሳቀስ",
+      "label": "O"
+    },
+    {
+      "token": "አመቺ",
+      "label": "O"
+    },
+    {
+      "token": "👌ልጆችዎን",
+      "label": "O"
+    },
+    {
+      "token": "ከቢንቢ",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ከተለያዩ",
+      "label": "O"
+    },
+    {
+      "token": "ነፍሳት",
+      "label": "O"
+    },
+    {
+      "token": "የሚጠብቅ",
+      "label": "O"
+    },
+    {
+      "token": "👌size100cm60cm",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ1400ብር💲",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "👉ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "💧💧💧💧",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "📣",
+      "label": "O"
+    },
+    {
+      "token": "plastic",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "metal",
+      "label": "O"
+    },
+    {
+      "token": "cubic",
+      "label": "O"
+    },
+    {
+      "token": "cloth",
+      "label": "O"
+    },
+    {
+      "token": "cabinet",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ዘመናዊ",
+      "label": "O"
+    },
+    {
+      "token": "የልብስ",
+      "label": "O"
+    },
+    {
+      "token": "ቁምሳጥን",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "የሚገጣጠም",
+      "label": "O"
+    },
+    {
+      "token": "የሚነቃቀል",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ከጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "ፕላስቲክና",
+      "label": "O"
+    },
+    {
+      "token": "ከብረት",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬም",
+      "label": "O"
+    },
+    {
+      "token": "የተሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "105ሜትር×",
+      "label": "O"
+    },
+    {
+      "token": "45ሣሜ×175ሜትር",
+      "label": "O"
+    },
+    {
+      "token": "ስፋት",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ከስሩ",
+      "label": "O"
+    },
+    {
+      "token": "4",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጥንድ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጫማዎችንም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ያስቀምጡበታል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "✔️",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የልጆችና",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የአዋቂ",
+      "label": "O"
+    },
+    {
+      "token": "ልብሶችን",
+      "label": "O"
+    },
+    {
+      "token": "ለማስቀመጥ",
+      "label": "O"
+    },
+    {
+      "token": "ተመራጭ",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ማራኪ",
+      "label": "O"
+    },
+    {
+      "token": "ውበት",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ5500",
+      "label": "O"
+    },
+    {
+      "token": "ብር",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥expanding",
+      "label": "O"
+    },
+    {
+      "token": "cookware",
+      "label": "O"
+    },
+    {
+      "token": "organiser",
+      "label": "O"
+    },
+    {
+      "token": "👉minimum",
+      "label": "O"
+    },
+    {
+      "token": "size",
+      "label": "O"
+    },
+    {
+      "token": "305cm",
+      "label": "O"
+    },
+    {
+      "token": "👉maximum",
+      "label": "O"
+    },
+    {
+      "token": "size",
+      "label": "O"
+    },
+    {
+      "token": "56cm",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "850",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "♦️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🔥🔥🔥",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👋",
+      "label": "O"
+    },
+    {
+      "token": "bardefu",
+      "label": "O"
+    },
+    {
+      "token": "2",
+      "label": "B-LOC"
+    },
+    {
+      "token": "in",
+      "label": "I-LOC"
+    },
+    {
+      "token": "1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "multi",
+      "label": "O"
+    },
+    {
+      "token": "purpose",
+      "label": "O"
+    },
+    {
+      "token": "juicer",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ኳሊቲ",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "የጁስ",
+      "label": "O"
+    },
+    {
+      "token": "መፍጫ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "የጀርመን",
+      "label": "O"
+    },
+    {
+      "token": "ቴክኖሎጂ",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "3",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ሌትር",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጁስ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የሚፈጭ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጆግ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ያለው",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የብና",
+      "label": "I-LOC"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "የቅመማ",
+      "label": "O"
+    },
+    {
+      "token": "ቅመም",
+      "label": "O"
+    },
+    {
+      "token": "መፍጫ",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "8000watt",
+      "label": "O"
+    },
+    {
+      "token": "የሆነ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ምላጮቹ",
+      "label": "O"
+    },
+    {
+      "token": "ጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "የሆኑ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ለቤት",
+      "label": "O"
+    },
+    {
+      "token": "እንዲሁም",
+      "label": "O"
+    },
+    {
+      "token": "ለስራ",
+      "label": "O"
+    },
+    {
+      "token": "የሚሆን",
+      "label": "O"
+    },
+    {
+      "token": "አሪፍ",
+      "label": "O"
+    },
+    {
+      "token": "እቃ",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "ለአጠቃቀም",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "በረዶ",
+      "label": "O"
+    },
+    {
+      "token": "ይፈጫል",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ6800ብር",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቤት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "sonifer",
+      "label": "O"
+    },
+    {
+      "token": "steam",
+      "label": "O"
+    },
+    {
+      "token": "iron",
+      "label": "O"
+    },
+    {
+      "token": "የልብስ",
+      "label": "O"
+    },
+    {
+      "token": "መቶከሻ",
+      "label": "O"
+    },
+    {
+      "token": "💯",
+      "label": "O"
+    },
+    {
+      "token": "high",
+      "label": "O"
+    },
+    {
+      "token": "quality",
+      "label": "O"
+    },
+    {
+      "token": "®️",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ceramic",
+      "label": "O"
+    },
+    {
+      "token": "soleplate",
+      "label": "O"
+    },
+    {
+      "token": "⚡️temperature",
+      "label": "O"
+    },
+    {
+      "token": "control",
+      "label": "O"
+    },
+    {
+      "token": "dial",
+      "label": "O"
+    },
+    {
+      "token": "⚡️powerful",
+      "label": "O"
+    },
+    {
+      "token": "burst",
+      "label": "O"
+    },
+    {
+      "token": "function",
+      "label": "O"
+    },
+    {
+      "token": "⚡️variable",
+      "label": "O"
+    },
+    {
+      "token": "steam",
+      "label": "O"
+    },
+    {
+      "token": "control",
+      "label": "O"
+    },
+    {
+      "token": "⚡️spray",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "steam",
+      "label": "O"
+    },
+    {
+      "token": "function",
+      "label": "O"
+    },
+    {
+      "token": "⚡️overheat",
+      "label": "O"
+    },
+    {
+      "token": "protection",
+      "label": "O"
+    },
+    {
+      "token": "⚡️transparent",
+      "label": "O"
+    },
+    {
+      "token": "water",
+      "label": "O"
+    },
+    {
+      "token": "level",
+      "label": "O"
+    },
+    {
+      "token": "window",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "flexible",
+      "label": "O"
+    },
+    {
+      "token": "360°",
+      "label": "O"
+    },
+    {
+      "token": "swivel",
+      "label": "O"
+    },
+    {
+      "token": "cord",
+      "label": "O"
+    },
+    {
+      "token": "⚡️voltage",
+      "label": "O"
+    },
+    {
+      "token": "ac",
+      "label": "O"
+    },
+    {
+      "token": "220240v",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "2900ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "❌ዉስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን❌",
+      "label": "O"
+    },
+    {
+      "token": "❌",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock❌",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "📣",
+      "label": "O"
+    },
+    {
+      "token": "plastic",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "metal",
+      "label": "O"
+    },
+    {
+      "token": "cubic",
+      "label": "O"
+    },
+    {
+      "token": "cloth",
+      "label": "O"
+    },
+    {
+      "token": "cabinet",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ዘመናዊ",
+      "label": "O"
+    },
+    {
+      "token": "የልብስ",
+      "label": "O"
+    },
+    {
+      "token": "ቁምሳጥን",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "የሚገጣጠም",
+      "label": "O"
+    },
+    {
+      "token": "የሚነቃቀል",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ከጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "ፕላስቲክና",
+      "label": "O"
+    },
+    {
+      "token": "ከብረት",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬም",
+      "label": "O"
+    },
+    {
+      "token": "የተሰራ",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "105ሜትር×",
+      "label": "O"
+    },
+    {
+      "token": "45ሣሜ×175ሜትር",
+      "label": "O"
+    },
+    {
+      "token": "ስፋት",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ከስሩ",
+      "label": "O"
+    },
+    {
+      "token": "4",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጥንድ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጫማዎችንም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ያስቀምጡበታል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "✔️",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የልጆችና",
+      "label": "I-LOC"
+    },
+    {
+      "token": "የአዋቂ",
+      "label": "O"
+    },
+    {
+      "token": "ልብሶችን",
+      "label": "O"
+    },
+    {
+      "token": "ለማስቀመጥ",
+      "label": "O"
+    },
+    {
+      "token": "ተመራጭ",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "ማራኪ",
+      "label": "O"
+    },
+    {
+      "token": "ውበት",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ5500",
+      "label": "O"
+    },
+    {
+      "token": "ብር",
+      "label": "O"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "🌀🌀🛒",
+      "label": "O"
+    },
+    {
+      "token": "multifunction",
+      "label": "O"
+    },
+    {
+      "token": "juice",
+      "label": "O"
+    },
+    {
+      "token": "extractor",
+      "label": "O"
+    },
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "🍎🍉🍒🍐🌽🍊ለአፕል",
+      "label": "O"
+    },
+    {
+      "token": "ብርቱካን",
+      "label": "O"
+    },
+    {
+      "token": "ካሮት",
+      "label": "O"
+    },
+    {
+      "token": "አናናስ",
+      "label": "O"
+    },
+    {
+      "token": "ቲማቲም",
+      "label": "O"
+    },
+    {
+      "token": "የመሳሰሉትን",
+      "label": "O"
+    },
+    {
+      "token": "እየጨመቀ",
+      "label": "O"
+    },
+    {
+      "token": "ቆሻሻውን",
+      "label": "O"
+    },
+    {
+      "token": "ለብቻ",
+      "label": "O"
+    },
+    {
+      "token": "እያጣራ",
+      "label": "O"
+    },
+    {
+      "token": "ውሃውን",
+      "label": "O"
+    },
+    {
+      "token": "እየጨመቀ",
+      "label": "O"
+    },
+    {
+      "token": "ወደራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ጆክ",
+      "label": "O"
+    },
+    {
+      "token": "የሚቀዳ",
+      "label": "O"
+    },
+    {
+      "token": "🧳",
+      "label": "O"
+    },
+    {
+      "token": "የፍራፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "✅",
+      "label": "O"
+    },
+    {
+      "token": "5500",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "የቀረው",
+      "label": "O"
+    },
+    {
+      "token": "🔥",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "📣",
+      "label": "O"
+    },
+    {
+      "token": "hobby",
+      "label": "O"
+    },
+    {
+      "token": "lobby",
+      "label": "O"
+    },
+    {
+      "token": "3",
+      "label": "B-LOC"
+    },
+    {
+      "token": "in",
+      "label": "I-LOC"
+    },
+    {
+      "token": "1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "chopper",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "garlic",
+      "label": "O"
+    },
+    {
+      "token": "peeler",
+      "label": "O"
+    },
+    {
+      "token": "ስጋ",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ሽንኩርት",
+      "label": "O"
+    },
+    {
+      "token": "በሰከንዶች",
+      "label": "O"
+    },
+    {
+      "token": "ድቅቅ",
+      "label": "O"
+    },
+    {
+      "token": "የሚያደርግ",
+      "label": "O"
+    },
+    {
+      "token": "የነጭሽንኩርት",
+      "label": "O"
+    },
+    {
+      "token": "የራሱ",
+      "label": "O"
+    },
+    {
+      "token": "መላጫ",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "two",
+      "label": "O"
+    },
+    {
+      "token": "3liter",
+      "label": "O"
+    },
+    {
+      "token": "jars",
+      "label": "O"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "one",
+      "label": "O"
+    },
+    {
+      "token": "is",
+      "label": "O"
+    },
+    {
+      "token": "metal",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "the",
+      "label": "O"
+    },
+    {
+      "token": "other",
+      "label": "O"
+    },
+    {
+      "token": "is",
+      "label": "O"
+    },
+    {
+      "token": "thick",
+      "label": "O"
+    },
+    {
+      "token": "glass",
+      "label": "B-Product"
+    },
+    {
+      "token": "✔️",
+      "label": "O"
+    },
+    {
+      "token": "with",
+      "label": "O"
+    },
+    {
+      "token": "4",
+      "label": "B-LOC"
+    },
+    {
+      "token": "blades",
+      "label": "I-LOC"
+    },
+    {
+      "token": "and",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2",
+      "label": "B-LOC"
+    },
+    {
+      "token": "blades",
+      "label": "I-LOC"
+    },
+    {
+      "token": "grinder",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👀",
+      "label": "O"
+    },
+    {
+      "token": "meat",
+      "label": "O"
+    },
+    {
+      "token": "gizzards",
+      "label": "O"
+    },
+    {
+      "token": "vegetables",
+      "label": "O"
+    },
+    {
+      "token": "onions",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "garlic",
+      "label": "O"
+    },
+    {
+      "token": "are",
+      "label": "O"
+    },
+    {
+      "token": "ground",
+      "label": "O"
+    },
+    {
+      "token": "into",
+      "label": "O"
+    },
+    {
+      "token": "it👀",
+      "label": "O"
+    },
+    {
+      "token": "🔔",
+      "label": "O"
+    },
+    {
+      "token": "dried",
+      "label": "O"
+    },
+    {
+      "token": "and",
+      "label": "O"
+    },
+    {
+      "token": "peeled",
+      "label": "O"
+    },
+    {
+      "token": "garlic",
+      "label": "O"
+    },
+    {
+      "token": "cloves",
+      "label": "O"
+    },
+    {
+      "token": "with",
+      "label": "O"
+    },
+    {
+      "token": "a",
+      "label": "O"
+    },
+    {
+      "token": "peeler🔔",
+      "label": "O"
+    },
+    {
+      "token": "📌",
+      "label": "O"
+    },
+    {
+      "token": "an",
+      "label": "O"
+    },
+    {
+      "token": "additional",
+      "label": "O"
+    },
+    {
+      "token": "switch",
+      "label": "O"
+    },
+    {
+      "token": "with",
+      "label": "O"
+    },
+    {
+      "token": "4",
+      "label": "B-LOC"
+    },
+    {
+      "token": "blades",
+      "label": "I-LOC"
+    },
+    {
+      "token": "✔️",
+      "label": "I-LOC"
+    },
+    {
+      "token": "3press",
+      "label": "O"
+    },
+    {
+      "token": "grinder",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "3900ብር",
+      "label": "O"
+    },
+    {
+      "token": "📍ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "wc",
+      "label": "O"
+    },
+    {
+      "token": "toilet",
+      "label": "O"
+    },
+    {
+      "token": "rackwashing",
+      "label": "O"
+    },
+    {
+      "token": "machin",
+      "label": "O"
+    },
+    {
+      "token": "rack",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "የመፀዳጃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤትዕቃዎች",
+      "label": "O"
+    },
+    {
+      "token": "መደርደሪያ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "ብረት",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ሼልፉ",
+      "label": "O"
+    },
+    {
+      "token": "የላሜራ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ብዙ",
+      "label": "O"
+    },
+    {
+      "token": "ነገሮችን",
+      "label": "O"
+    },
+    {
+      "token": "ያስቀምጡበታል",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "አገጣጠሙ",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "በራሱ",
+      "label": "O"
+    },
+    {
+      "token": "የሚቆም",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "160ሜትር",
+      "label": "O"
+    },
+    {
+      "token": "ቁመት",
+      "label": "O"
+    },
+    {
+      "token": "47ሣሜ",
+      "label": "O"
+    },
+    {
+      "token": "ስፋት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ሰፊው",
+      "label": "O"
+    },
+    {
+      "token": "አካላ",
+      "label": "O"
+    },
+    {
+      "token": "25ሣሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጥልቀት",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ለኮንዶሚኒየምአፓርታማ",
+      "label": "O"
+    },
+    {
+      "token": "ቤቶች",
+      "label": "O"
+    },
+    {
+      "token": "የሚፈለግ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "3500ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "✖️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "💧💧💧💧",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "🌀🌀🛒",
+      "label": "O"
+    },
+    {
+      "token": "multifunction",
+      "label": "O"
+    },
+    {
+      "token": "juice",
+      "label": "O"
+    },
+    {
+      "token": "extractor",
+      "label": "O"
+    },
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "🍎🍉🍒🍐🌽🍊ለአፕል",
+      "label": "O"
+    },
+    {
+      "token": "ብርቱካን",
+      "label": "O"
+    },
+    {
+      "token": "ካሮት",
+      "label": "O"
+    },
+    {
+      "token": "አናናስ",
+      "label": "O"
+    },
+    {
+      "token": "ቲማቲም",
+      "label": "O"
+    },
+    {
+      "token": "የመሳሰሉትን",
+      "label": "O"
+    },
+    {
+      "token": "እየጨመቀ",
+      "label": "O"
+    },
+    {
+      "token": "ቆሻሻውን",
+      "label": "O"
+    },
+    {
+      "token": "ለብቻ",
+      "label": "O"
+    },
+    {
+      "token": "እያጣራ",
+      "label": "O"
+    },
+    {
+      "token": "ውሃውን",
+      "label": "O"
+    },
+    {
+      "token": "እየጨመቀ",
+      "label": "O"
+    },
+    {
+      "token": "ወደራሱ",
+      "label": "O"
+    },
+    {
+      "token": "ጆክ",
+      "label": "O"
+    },
+    {
+      "token": "የሚቀዳ",
+      "label": "O"
+    },
+    {
+      "token": "🧳",
+      "label": "O"
+    },
+    {
+      "token": "የፍራፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "✅",
+      "label": "O"
+    },
+    {
+      "token": "5500",
+      "label": "B-PRICE"
+    },
+    {
+      "token": "ብር",
+      "label": "I-PRICE"
+    },
+    {
+      "token": "ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "የቀረው",
+      "label": "O"
+    },
+    {
+      "token": "🔥",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👠36",
+      "label": "O"
+    },
+    {
+      "token": "pairs",
+      "label": "O"
+    },
+    {
+      "token": "over",
+      "label": "O"
+    },
+    {
+      "token": "the",
+      "label": "O"
+    },
+    {
+      "token": "door",
+      "label": "O"
+    },
+    {
+      "token": "shoe",
+      "label": "O"
+    },
+    {
+      "token": "rack👞👢👟",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "የሚገጣጠም",
+      "label": "O"
+    },
+    {
+      "token": "የሚነቃቀል",
+      "label": "O"
+    },
+    {
+      "token": "👉ኑሮን",
+      "label": "O"
+    },
+    {
+      "token": "የሚያቀል",
+      "label": "O"
+    },
+    {
+      "token": "👉ቦታ",
+      "label": "O"
+    },
+    {
+      "token": "የማይዝ",
+      "label": "O"
+    },
+    {
+      "token": "👉ለአጠቃቀም",
+      "label": "O"
+    },
+    {
+      "token": "በጣም",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "👉ባለ",
+      "label": "O"
+    },
+    {
+      "token": "12",
+      "label": "B-LOC"
+    },
+    {
+      "token": "መደርደሪያ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉36",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጫማ",
+      "label": "B-Product"
+    },
+    {
+      "token": "የሚይዝ",
+      "label": "I-Product"
+    },
+    {
+      "token": "በር",
+      "label": "I-Product"
+    },
+    {
+      "token": "ላይ",
+      "label": "I-Product"
+    },
+    {
+      "token": "ተንጠልጣይ",
+      "label": "I-Product"
+    },
+    {
+      "token": "size",
+      "label": "I-Product"
+    },
+    {
+      "token": "5020183cm",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ3100",
+      "label": "O"
+    },
+    {
+      "token": "ብር",
+      "label": "O"
+    },
+    {
+      "token": "📍ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "💥",
+      "label": "O"
+    },
+    {
+      "token": "wc",
+      "label": "O"
+    },
+    {
+      "token": "toilet",
+      "label": "O"
+    },
+    {
+      "token": "rackwashing",
+      "label": "O"
+    },
+    {
+      "token": "machin",
+      "label": "O"
+    },
+    {
+      "token": "rack",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "የመፀዳጃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤትዕቃዎች",
+      "label": "O"
+    },
+    {
+      "token": "መደርደሪያ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ጠንካራ",
+      "label": "O"
+    },
+    {
+      "token": "ብረት",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ሼልፉ",
+      "label": "O"
+    },
+    {
+      "token": "የላሜራ",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ብዙ",
+      "label": "O"
+    },
+    {
+      "token": "ነገሮችን",
+      "label": "O"
+    },
+    {
+      "token": "ያስቀምጡበታል",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "አገጣጠሙ",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "በራሱ",
+      "label": "O"
+    },
+    {
+      "token": "የሚቆም",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "160ሜትር",
+      "label": "O"
+    },
+    {
+      "token": "ቁመት",
+      "label": "O"
+    },
+    {
+      "token": "47ሣሜ",
+      "label": "O"
+    },
+    {
+      "token": "ስፋት",
+      "label": "O"
+    },
+    {
+      "token": "እና",
+      "label": "O"
+    },
+    {
+      "token": "ሰፊው",
+      "label": "O"
+    },
+    {
+      "token": "አካላ",
+      "label": "O"
+    },
+    {
+      "token": "25ሣሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጥልቀት",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "⚡️",
+      "label": "O"
+    },
+    {
+      "token": "ለኮንዶሚኒየምአፓርታማ",
+      "label": "O"
+    },
+    {
+      "token": "ቤቶች",
+      "label": "O"
+    },
+    {
+      "token": "የሚፈለግ",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ",
+      "label": "O"
+    },
+    {
+      "token": "3500ብር✅",
+      "label": "O"
+    },
+    {
+      "token": "✖️ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለው",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ስሪ",
+      "label": "O"
+    },
+    {
+      "token": "ኤም",
+      "label": "O"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "O"
+    },
+    {
+      "token": "ሞል",
+      "label": "O"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "O"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "O"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ለፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁጥር214",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "💧💧💧💧",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ],
+  [
+    {
+      "token": "👠36",
+      "label": "O"
+    },
+    {
+      "token": "pairs",
+      "label": "O"
+    },
+    {
+      "token": "over",
+      "label": "O"
+    },
+    {
+      "token": "the",
+      "label": "O"
+    },
+    {
+      "token": "door",
+      "label": "O"
+    },
+    {
+      "token": "shoe",
+      "label": "O"
+    },
+    {
+      "token": "rack👞👢👟",
+      "label": "O"
+    },
+    {
+      "token": "👉",
+      "label": "O"
+    },
+    {
+      "token": "በቀላሉ",
+      "label": "O"
+    },
+    {
+      "token": "የሚገጣጠም",
+      "label": "O"
+    },
+    {
+      "token": "የሚነቃቀል",
+      "label": "O"
+    },
+    {
+      "token": "👉ኑሮን",
+      "label": "O"
+    },
+    {
+      "token": "የሚያቀል",
+      "label": "O"
+    },
+    {
+      "token": "👉ቦታ",
+      "label": "O"
+    },
+    {
+      "token": "የማይዝ",
+      "label": "O"
+    },
+    {
+      "token": "👉ለአጠቃቀም",
+      "label": "O"
+    },
+    {
+      "token": "በጣም",
+      "label": "O"
+    },
+    {
+      "token": "ቀላል",
+      "label": "O"
+    },
+    {
+      "token": "👉ባለ",
+      "label": "O"
+    },
+    {
+      "token": "12",
+      "label": "B-LOC"
+    },
+    {
+      "token": "መደርደሪያ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉36",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ጫማ",
+      "label": "B-Product"
+    },
+    {
+      "token": "የሚይዝ",
+      "label": "I-Product"
+    },
+    {
+      "token": "በር",
+      "label": "I-Product"
+    },
+    {
+      "token": "ላይ",
+      "label": "I-Product"
+    },
+    {
+      "token": "ተንጠልጣይ",
+      "label": "I-Product"
+    },
+    {
+      "token": "size",
+      "label": "I-Product"
+    },
+    {
+      "token": "5020183cm",
+      "label": "O"
+    },
+    {
+      "token": "ዋጋ3100",
+      "label": "O"
+    },
+    {
+      "token": "ብር",
+      "label": "O"
+    },
+    {
+      "token": "📍ውስን",
+      "label": "O"
+    },
+    {
+      "token": "ፍሬ",
+      "label": "O"
+    },
+    {
+      "token": "ነው",
+      "label": "O"
+    },
+    {
+      "token": "ያለን",
+      "label": "O"
+    },
+    {
+      "token": "limited",
+      "label": "O"
+    },
+    {
+      "token": "stock",
+      "label": "O"
+    },
+    {
+      "token": "🏢",
+      "label": "O"
+    },
+    {
+      "token": "አድራሻ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ቁ1",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መገናኛ",
+      "label": "O"
+    },
+    {
+      "token": "ታሜ",
+      "label": "O"
+    },
+    {
+      "token": "ጋስ",
+      "label": "O"
+    },
+    {
+      "token": "ህንፃ",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ጎን",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ስሪ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ኤም",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሲቲ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሁለተኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቁ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "sl05aከ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሊፍቱ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ለ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፊት",
+      "label": "I-LOC"
+    },
+    {
+      "token": "📍ቁ2",
+      "label": "I-LOC"
+    },
+    {
+      "token": "👉ለቡ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "መዳህኒዓለም",
+      "label": "O"
+    },
+    {
+      "token": "ቤተክርስቲያን",
+      "label": "B-LOC"
+    },
+    {
+      "token": "100ሜ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ወደ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ሙዚቃ",
+      "label": "O"
+    },
+    {
+      "token": "ቤት",
+      "label": "B-LOC"
+    },
+    {
+      "token": "ከፍ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ብሎ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ዛምሞል",
+      "label": "I-LOC"
+    },
+    {
+      "token": "2ኛ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ፎቅ",
+      "label": "I-LOC"
+    },
+    {
+      "token": "ቢሮቁ",
+      "label": "O"
+    },
+    {
+      "token": "214",
+      "label": "B-LOC"
+    },
+    {
+      "token": "📲",
+      "label": "I-LOC"
+    },
+    {
+      "token": "<",
+      "label": "I-LOC"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "👍ለቡ",
+      "label": "O"
+    },
+    {
+      "token": "ቅርንጫፍ📲",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "phone",
+      "label": "B-Product"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    },
+    {
+      "token": "🔖",
+      "label": "O"
+    },
+    {
+      "token": "💬",
+      "label": "O"
+    },
+    {
+      "token": "በtelegram",
+      "label": "O"
+    },
+    {
+      "token": "ለማዘዝ",
+      "label": "O"
+    },
+    {
+      "token": "⤵️",
+      "label": "O"
+    },
+    {
+      "token": "ይጠቀሙ",
+      "label": "O"
+    },
+    {
+      "token": "shageronlinestore",
+      "label": "O"
+    },
+    {
+      "token": "ለተጨማሪ",
+      "label": "O"
+    },
+    {
+      "token": "ማብራሪያ",
+      "label": "O"
+    },
+    {
+      "token": "የቴሌግራም",
+      "label": "O"
+    },
+    {
+      "token": "ገፃችን⤵️",
+      "label": "O"
+    },
+    {
+      "token": "<",
+      "label": "O"
+    },
+    {
+      "token": "url",
+      "label": "O"
+    },
+    {
+      "token": ">",
+      "label": "O"
+    }
+  ]
+]
